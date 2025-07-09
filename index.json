@@ -1,33 +1,31 @@
 [
   {
-    "MissionID": "592",
-    "MissionName": "Jason-3",
+    "missionID": "592",
+    "missionName": "Jason-3",
     "SVGColourPath": "satellites/jason-3/jason-3.svg",
     "SVGBlackPath": "satellites/jason-3/jason-3-icon.svg",
     "PNG1024Path": "satellites/jason-3/jason-3-1024px.png",
     "PNG512Path": "satellites/jason-3/jason-3-512px.png",
-    "ImageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/Jason3-sm.png?w=300"
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/Jason3-sm.png?w=300"
   },
 
   {
-    "MissionID": "394",
-    "MissionName": "ACE",
+    "missionID": "394",
+    "missionName": "ACE",
     "SVGColourPath": "satellites/ACE/ACE.svg",
     "SVGBlackPath": "satellites/ACE/ACE-icon.svg",
     "PNG1024Path": "satellites/ACE/ACE-1024px.png",
     "PNG512Path": "satellites/ACE/ACE-512px.png",
-    "ImageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/05/ACE.png"
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/05/ACE.png"
   },
 
-
   {
-    "MissionID": "",
-    "MissionName": "",
+    "missionID": "",
+    "missionName": "",
     "SVGColourPath": "",
     "SVGBlackPath": "",
     "PNG1024Path": "",
     "PNG512Path": "",
-    "ImageSourceURL": ""
+    "imageSourceURL": ""
   }
-
 ]
