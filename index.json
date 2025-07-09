@@ -1,0 +1,11 @@
+[
+  {
+    "MissionID": "592",
+    "MissionName": "Jason-3",
+    "SVGColourPath": "satellites/jason-3/jason-3.svg",
+    "SVGBlackPath": "satellites/jason-3/jason-3-icon.svg",
+    "PNG1024Path": "satellites/jason-3/jason-3-1024px.png",
+    "PNG512Path": "satellites/jason-3/jason-3-512px.png",
+    "ImageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/Jason3-sm.png?w=300"
+  }
+]
