@@ -1,19 +1,20 @@
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+License Overview
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
+1) Original materials (excluding assets under `satellites/`)
 
-Permissions:
+The repository’s original materials authored by the maintainers — including documentation and any curation/metadata files — are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
-- Share — copy and redistribute the material in any medium or format.
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-
-Conditions:
-
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-  You may do so in any reasonable manner, but not in any way that suggests the original contributors endorse you or your use.
-
-Attribution Notice:
-Please provide credit by linking to this repository: https://github.com/gamedaygeorge/satellite-visuals
-
-Full License Text:  
+Full CC BY 4.0 text:
 https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution requirement:
+Please credit this project by linking to the repository: https://github.com/gamedaygeorge/satellite-visuals and retain notices of any modifications where reasonable.
+
+2) Third‑party assets under `satellites/`
+
+All image and SVG assets located under the `satellites/` directory are third‑party materials included for reference and organizational purposes. No license to copy, modify, redistribute, or otherwise use these assets is granted by the repository authors. Copyright and related rights remain with their respective owners under the original terms indicated in `ATTRIBUTIONS.csv` and/or the source links.
+
+If you wish to use any asset, you must obtain permission or rely on the original terms from the rights holder. See `ASSET-LICENSING.md` and `ATTRIBUTIONS.csv` for details.
+
+Takedown / corrections:
+If you are a rights holder and believe an asset is used in error, please open an issue or contact the maintainer for removal or correction.
