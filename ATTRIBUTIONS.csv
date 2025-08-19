@@ -1,34 +1,34 @@
 path,title,creator_or_rights_holder,source_url,original_license_or_terms,license_url_or_notes
 satellites/ace/ACE-1024px.png,,,https://science.nasa.gov/wp-content/uploads/2023/05/ACE.png,,
-satellites/ace/ACE-512px.png,,,,,
+satellites/ace/ACE-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/05/ACE.png,,
 satellites/ace/ACE-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/ace/ACE.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/alos-2/alos-2-1024px.png,,,,,
-satellites/alos-2/alos-2-512px.png,,,,,
+satellites/alos-2/alos-2-1024px.png,,,https://www.eoportal.org/api/cms/documents/163813/6584772/Pi7_Image_alos2.jpg/8454aed8-52c2-607e-1671-9bb1cc239a32?t=1660988939103,,
+satellites/alos-2/alos-2-512px.png,,,https://www.eoportal.org/api/cms/documents/163813/6584772/Pi7_Image_alos2.jpg/8454aed8-52c2-607e-1671-9bb1cc239a32?t=1660988939103,,
 satellites/alos-2/alos-2-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/alos-2/alos-2.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/alos-4/alos-4-1024px.png,,,,,
-satellites/alos-4/alos-4-512px.png,,,,,
+satellites/alos-4/alos-4-1024px.png,,,https://www.satnavi.jaxa.jp/files/project/alos4/projectMember/img/paragraph_ph02.jpg,,
+satellites/alos-4/alos-4-512px.png,,,https://www.satnavi.jaxa.jp/files/project/alos4/projectMember/img/paragraph_ph02.jpg,,
 satellites/alos-4/alos-4-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/alos-4/alos-4.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/AMAZONIA-1/AMAZONIA-1-1024px.png,,,,,
-satellites/AMAZONIA-1/AMAZONIA-1-512px.png,,,,,
+satellites/AMAZONIA-1/AMAZONIA-1-1024px.png,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TWXhFf0W9upk07UQGqEfy6ONPZXDSQIOBA&s,,
+satellites/AMAZONIA-1/AMAZONIA-1-512px.png,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TWXhFf0W9upk07UQGqEfy6ONPZXDSQIOBA&s,,
 satellites/AMAZONIA-1/AMAZONIA-1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/AMAZONIA-1/AMAZONIA-1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/AWS/AWS-1024px.png,,,,,
-satellites/AWS/AWS-512px.png,,,,,
+satellites/AWS/AWS-1024px.png,,,https://tas-static.thalesaleniaspace.com/cms/public/styles/1920x1200/public/thales_images/arctic_weather_satellite_small_but_perfectly_formed-min.png.webp?VersionId=BcTlw0YTUyyiCgL7VKPpV1acEqv6poOk&itok=GvYR8z18,,
+satellites/AWS/AWS-512px.png,,,https://tas-static.thalesaleniaspace.com/cms/public/styles/1920x1200/public/thales_images/arctic_weather_satellite_small_but_perfectly_formed-min.png.webp?VersionId=BcTlw0YTUyyiCgL7VKPpV1acEqv6poOk&itok=GvYR8z18,,
 satellites/AWS/AWS-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/AWS/AWS.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/cfosat/cfosat-1024px.png,,,,,
-satellites/cfosat/cfosat-512px.png,,,,,
+satellites/cfosat/cfosat-1024px.png,,,https://www.eoportal.org/api/cms/documents/163813/6584772/bpc_cfosat-illustration.jpg/90ca18e5-d058-9e48-ce79-832a3f8b7c34?t=1668332406679,,
+satellites/cfosat/cfosat-512px.png,,,https://www.eoportal.org/api/cms/documents/163813/6584772/bpc_cfosat-illustration.jpg/90ca18e5-d058-9e48-ce79-832a3f8b7c34?t=1668332406679,,
 satellites/cfosat/cfosat-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/cfosat/cfosat.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/cloudsat/CloudSat-1024px.png,,,,,
-satellites/cloudsat/CloudSat-512px.png,,,,,
+satellites/cloudsat/CloudSat-1024px.png,,,https://upload.wikimedia.org/wikipedia/commons/d/dc/CloudSat_spacecraft_model.png,,
+satellites/cloudsat/CloudSat-512px.png,,,https://upload.wikimedia.org/wikipedia/commons/d/dc/CloudSat_spacecraft_model.png,,
 satellites/cloudsat/CloudSat-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/cloudsat/CloudSat.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/cryosat-2/cryosat-2-1024px.png,,,,,
-satellites/cryosat-2/cryosat-2-512px.png,,,,,
+satellites/cryosat-2/cryosat-2-1024px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2009/09/cryosat3/10084092-2-eng-GB/CryoSat_pillars.jpg,,
+satellites/cryosat-2/cryosat-2-512px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2009/09/cryosat3/10084092-2-eng-GB/CryoSat_pillars.jpg,,
 satellites/cryosat-2/cryosat-2-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/cryosat-2/cryosat-2.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/CSG-2/CSG-2-1024px.png,,,,,
