@@ -31,8 +31,8 @@ satellites/cryosat-2/cryosat-2-1024px.png,,,https://www.esa.int/var/esa/storage/
 satellites/cryosat-2/cryosat-2-512px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2009/09/cryosat3/10084092-2-eng-GB/CryoSat_pillars.jpg,,
 satellites/cryosat-2/cryosat-2-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/cryosat-2/cryosat-2.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/CSG-2/CSG-2-1024px.png,,,,,
-satellites/CSG-2/CSG-2-512px.png,,,,,
+satellites/CSG-2/CSG-2-1024px.png,,,https://www.nasaspaceflight.com/wp-content/uploads/2022/01/csg-render.jpg,,
+satellites/CSG-2/CSG-2-512px.png,,,https://www.nasaspaceflight.com/wp-content/uploads/2022/01/csg-render.jpg,,
 satellites/CSG-2/CSG-2-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/CSG-2/CSG-2.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/earthcare/earthcare-1024px.png,,,https://earth.esa.int/eogateway/documents/20142/1899021/EarthCARE-mission-1920x1080.jpg/1abe23cb-51db-c2c8-19d8-31c660ce0044?t=1615817618416,,
@@ -79,136 +79,136 @@ satellites/jason-3/jason-3-1024px.png,,,https://science.nasa.gov/wp-content/uplo
 satellites/jason-3/jason-3-1024px.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/jason-3/jason-3-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/Jason3-sm.png?w=300,,
 satellites/jason-3/jason-3-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/jpss-1/JPSS-1-1024px.png,,,,,
-satellites/jpss-1/JPSS-1-512px.png,,,,,
+satellites/jpss-1/JPSS-1-1024px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/JPSS-sm.png?w=300,,
+satellites/jpss-1/JPSS-1-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/JPSS-sm.png?w=300,,
 satellites/jpss-1/JPSS-1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/jpss-1/JPSS-1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/jpss-2/JPSS-2-1024px.png,,,,,
-satellites/jpss-2/JPSS-2-512px.png,,,,,
+satellites/jpss-2/JPSS-2-1024px.png,,,https://eospso.nasa.gov/sites/default/files/sat/jp5.jpg,,
+satellites/jpss-2/JPSS-2-512px.png,,,https://eospso.nasa.gov/sites/default/files/sat/jp5.jpg,,
 satellites/jpss-2/JPSS-2-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/jpss-2/JPSS-2.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/kalpana-1/Kalpana-1-1024px.png,,,,,
-satellites/kalpana-1/Kalpana-1-512px.png,,,,,
+satellites/kalpana-1/Kalpana-1-1024px.png,,,https://space.skyrocket.de/php/resize-img.php?pth=0&img=metsat-1__1.jpg,,
+satellites/kalpana-1/Kalpana-1-512px.png,,,https://space.skyrocket.de/php/resize-img.php?pth=0&img=metsat-1__1.jpg,,
 satellites/kalpana-1/Kalpana-1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/kalpana-1/Kalpana-1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/khalifasat/KhalifaSat-1024px.png,,,,,
-satellites/khalifasat/KhalifaSat-512px.png,,,,,
+satellites/khalifasat/KhalifaSat-1024px.png,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/KhalifaSat_UAE_Satellite.jpg/960px-KhalifaSat_UAE_Satellite.jpg,,
+satellites/khalifasat/KhalifaSat-512px.png,,,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/KhalifaSat_UAE_Satellite.jpg/960px-KhalifaSat_UAE_Satellite.jpg,,
 satellites/khalifasat/KhalifaSat-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/khalifasat/KhalifaSat.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/landsat-7/Landsat-7-1024px.png,,,,,
-satellites/landsat-7/Landsat-7-512px.png,,,,,
+satellites/landsat-7/Landsat-7-1024px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/Landsat_7_b-sm.png?w=300,,
+satellites/landsat-7/Landsat-7-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/Landsat_7_b-sm.png?w=300,,
 satellites/landsat-7/Landsat-7-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/landsat-7/Landsat-7.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/landsat-8/Landsat-8-1024px.png,,,,,
-satellites/landsat-8/Landsat-8-512px.png,,,,,
+satellites/landsat-8/Landsat-8-1024px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/Landsat8_LDCM-sm.png?w=300,,
+satellites/landsat-8/Landsat-8-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/10/Landsat8_LDCM-sm.png?w=300,,
 satellites/landsat-8/Landsat-8-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/landsat-8/Landsat-8.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/landsat-9/landsat9-1024px.png,,,,,
-satellites/landsat-9/landsat9-512px.png,,,,,
+satellites/landsat-9/landsat9-1024px.png,,,https://science.nasa.gov/wp-content/uploads/2023/05/landsat9.png,,
+satellites/landsat-9/landsat9-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/05/landsat9.png,,
 satellites/landsat-9/landsat9-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/landsat-9/landsat9.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/LARES/LARES-1024px.png,,,,,
-satellites/LARES/LARES-512px.png,,,,,
+satellites/LARES/LARES-1024px.png,,,https://upload.wikimedia.org/wikipedia/commons/1/1e/LARESball_public.JPG,,
+satellites/LARES/LARES-512px.png,,,https://upload.wikimedia.org/wikipedia/commons/1/1e/LARESball_public.JPG,,
 satellites/LARES/LARES-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/LARES/LARES.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/meteosat-10/Meteosat-10-1024px.png,,,,,
-satellites/meteosat-10/Meteosat-10-512px.png,,,,,
+satellites/meteosat-10/Meteosat-10-1024px.png,,,https://www.un-spider.org/sites/default/files/121219_Meteosat.jpg,,
+satellites/meteosat-10/Meteosat-10-512px.png,,,https://www.un-spider.org/sites/default/files/121219_Meteosat.jpg,,
 satellites/meteosat-10/Meteosat-10-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/meteosat-10/Meteosat-10.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/meteosat-11/meteosat-11-1024px.png,,,,,
-satellites/meteosat-11/meteosat-11-512px.png,,,,,
+satellites/meteosat-11/meteosat-11-1024px.png,,,https://tse1.mm.bing.net/th/id/OIP.QD0t5mg9RGwszGT_EkypJAHaKX?w=474&h=474&c=7,,
+satellites/meteosat-11/meteosat-11-512px.png,,,https://tse1.mm.bing.net/th/id/OIP.QD0t5mg9RGwszGT_EkypJAHaKX?w=474&h=474&c=7,,
 satellites/meteosat-11/meteosat-11-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/meteosat-11/meteosat-11.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/meteosat-9/meteosat-9-1024px.png,,,,,
-satellites/meteosat-9/meteosat-9-512px.png,,,,,
+satellites/meteosat-9/meteosat-9-1024px.png,,,https://www-cdn.eumetsat.int/files/2023-09/Satellites_MSG.jpg,,
+satellites/meteosat-9/meteosat-9-512px.png,,,https://www-cdn.eumetsat.int/files/2023-09/Satellites_MSG.jpg,,
 satellites/meteosat-9/meteosat-9-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/meteosat-9/meteosat-9.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/metop-b/metop-b-1024px.png,,,,,
-satellites/metop-b/metop-b-512px.png,,,,,
+satellites/metop-b/metop-b-1024px.png,,,https://tse2.mm.bing.net/th/id/OIP.QvT-GG1XR6HQ6AiaMYzvOAAAAA?pid=Api,,
+satellites/metop-b/metop-b-512px.png,,,https://tse2.mm.bing.net/th/id/OIP.QvT-GG1XR6HQ6AiaMYzvOAAAAA?pid=Api,,
 satellites/metop-b/metop-b-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/metop-b/metop-b.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/meznsat/Meznsat-1024px.png,,,,,
-satellites/meznsat/Meznsat-512px.png,,,,,
+satellites/meznsat/Meznsat-1024px.png,,,https://space.skyrocket.de/img_sat/meznsat__1.jpg,,
+satellites/meznsat/Meznsat-512px.png,,,https://space.skyrocket.de/img_sat/meznsat__1.jpg,,
 satellites/meznsat/Meznsat-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/meznsat/Meznsat.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/mtg-i1/MTG-i1-1024px.png,,,,,
-satellites/mtg-i1/MTG-i1-512px.png,,,,,
+satellites/mtg-i1/MTG-i1-1024px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2012/02/mtg-i2/9992525-4-eng-GB/MTG-I_pillars.jpg,,
+satellites/mtg-i1/MTG-i1-512px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2012/02/mtg-i2/9992525-4-eng-GB/MTG-I_pillars.jpg,,
 satellites/mtg-i1/MTG-i1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/mtg-i1/MTG-i1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/novasar-1/NovaSAR-1-1024px.png,,,,,
-satellites/novasar-1/NovaSAR-1-512px.png,,,,,
+satellites/novasar-1/NovaSAR-1-1024px.png,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQ308qNsjsqJW4v5ljcigmZXn70Ruoc95Gg&s,,
+satellites/novasar-1/NovaSAR-1-512px.png,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQ308qNsjsqJW4v5ljcigmZXn70Ruoc95Gg&s,,
 satellites/novasar-1/NovaSAR-1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/novasar-1/NovaSAR-1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/odin/Odin-1024px.png,,,,,
-satellites/odin/Odin-512px.png,,,,,
+satellites/odin/Odin-1024px.png,,,https://www.eoportal.org/api/cms/documents/d/eoportal/odin_auto15-jpeg,,
+satellites/odin/Odin-512px.png,,,https://www.eoportal.org/api/cms/documents/d/eoportal/odin_auto15-jpeg,,
 satellites/odin/Odin-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/odin/Odin.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/planet-dove/planet-dove-1024px.png,,,,,
-satellites/planet-dove/planet-dove-512px.png,,,,,
+satellites/planet-dove/planet-dove-1024px.png,,,https://cdn.sanity.io/images/hvd5n54p/blog/247354a3c193499da3277ead3988e477dff68634-1024x540.jpg?w=2048&q=75&fit=clip&auto=format,,
+satellites/planet-dove/planet-dove-512px.png,,,https://cdn.sanity.io/images/hvd5n54p/blog/247354a3c193499da3277ead3988e477dff68634-1024x540.jpg?w=2048&q=75&fit=clip&auto=format,,
 satellites/planet-dove/planet-dove-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/planet-dove/planet-dove.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/RapidEye/RapidEye-1024px.png,,,,,
-satellites/RapidEye/RapidEye-512px.png,,,,,
+satellites/RapidEye/RapidEye-1024px.png,,,https://space.skyrocket.de/img_sat/rapideye-1__1.jpg,,
+satellites/RapidEye/RapidEye-512px.png,,,https://space.skyrocket.de/img_sat/rapideye-1__1.jpg,,
 satellites/RapidEye/RapidEye-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/RapidEye/RapidEye.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/saocom-1a/Saocom-1a-1024px.png,,,,,
-satellites/saocom-1a/Saocom-1a-512px.png,,,,,
+satellites/saocom-1a/Saocom-1a-1024px.png,,,https://docs.mcube.terradue.com/missions/sar/media/saocom-1-sat.png,,
+satellites/saocom-1a/Saocom-1a-512px.png,,,https://docs.mcube.terradue.com/missions/sar/media/saocom-1-sat.png,,
 satellites/saocom-1a/Saocom-1a-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/saocom-1a/Saocom-1a.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/scisat-1/scisat-1-1024px.png,,,,,
-satellites/scisat-1/scisat-1-512px.png,,,,,
+satellites/scisat-1/scisat-1-1024px.png,,,https://eo.belspo.be/sites/default/files/styles/xlarge/public/satellites/100._scisat_2.jpg?itok=A7X2dAkp,,
+satellites/scisat-1/scisat-1-512px.png,,,https://eo.belspo.be/sites/default/files/styles/xlarge/public/satellites/100._scisat_2.jpg?itok=A7X2dAkp,,
 satellites/scisat-1/scisat-1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/scisat-1/scisat-1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-1/ Sentinal-1-1024px.png,,,,,
-satellites/sentinel-1/ Sentinal-1-512px.png,,,,,
+satellites/sentinel-1/ Sentinal-1-1024px.png,,,https://sentiwiki.copernicus.eu/__attachments/1680406/Sentinel-1.jpg?inst-v=869f0208-33ab-4833-803c-33b10e8dbfd3,,
+satellites/sentinel-1/ Sentinal-1-512px.png,,,https://sentiwiki.copernicus.eu/__attachments/1680406/Sentinel-1.jpg?inst-v=869f0208-33ab-4833-803c-33b10e8dbfd3,,
 satellites/sentinel-1/Sentinal-1-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-1/Sentinal-1.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-1C/Sentinel-1c-1024px.png,,,,,
-satellites/sentinel-1C/Sentinel-1c-512px.png,,,,,
+satellites/sentinel-1C/Sentinel-1c-1024px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_pillars.jpg,,
+satellites/sentinel-1C/Sentinel-1c-512px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_pillars.jpg,,
 satellites/sentinel-1C/Sentinel-1c-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-1C/Sentinel-1c.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-2/Sentinel-2-1024px.png,,,,,
-satellites/sentinel-2/Sentinel-2-512px.png,,,,,
+satellites/sentinel-2/Sentinel-2-1024px.png,,,https://sentiwiki.copernicus.eu/__attachments/1671710/image-20230517-132224.png?inst-v=96021aea-734a-44d2-9ca8-2228c7de7290,,
+satellites/sentinel-2/Sentinel-2-512px.png,,,https://sentiwiki.copernicus.eu/__attachments/1671710/image-20230517-132224.png?inst-v=96021aea-734a-44d2-9ca8-2228c7de7290,,
 satellites/sentinel-2/Sentinel-2-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-2/Sentinel-2.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-2c/Sentinel-2c-1024px.png,,,,,
-satellites/sentinel-2c/Sentinel-2c-512px.png,,,,,
+satellites/sentinel-2c/Sentinel-2c-1024px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/03/sentinel-2/15292661-1-eng-GB/Sentinel-2_article.jpg,,
+satellites/sentinel-2c/Sentinel-2c-512px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/03/sentinel-2/15292661-1-eng-GB/Sentinel-2_article.jpg,,
 satellites/sentinel-2c/Sentinel-2c-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-2c/Sentinel-2c.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-3/Sentinel-3-1024px.png,,,,,
-satellites/sentinel-3/Sentinel-3-512px.png,,,,,
+satellites/sentinel-3/Sentinel-3-1024px.png,,,https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2020-11/ASpot_Sentinel-3.jpg?h=d5a0cc9b&itok=Fjf7yuho,,
+satellites/sentinel-3/Sentinel-3-512px.png,,,https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2020-11/ASpot_Sentinel-3.jpg?h=d5a0cc9b&itok=Fjf7yuho,,
 satellites/sentinel-3/Sentinel-3-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-3/Sentinel-3.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-4/Sentinel-4-1024px.png,,,,,
-satellites/sentinel-4/Sentinel-4-512px.png,,,,,
+satellites/sentinel-4/Sentinel-4-1024px.png,,,https://www.eoportal.org/satellite-missions/copernicus-sentinel-4#eop-quick-facts-section,,
+satellites/sentinel-4/Sentinel-4-512px.png,,,https://www.eoportal.org/satellite-missions/copernicus-sentinel-4#eop-quick-facts-section,,
 satellites/sentinel-4/Sentinel-4-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-4/Sentinel-4.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-5a/Sentinel-5a-1024px.png,,,,,
-satellites/sentinel-5a/Sentinel-5a-512px.png,,,,,
+satellites/sentinel-5a/Sentinel-5a-1024px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/02/sentinel-5_on_metop_second_generation_satellite/16829208-1-eng-GB/Sentinel-5_on_MetOp_Second_Generation_satellite_pillars.jpg,,
+satellites/sentinel-5a/Sentinel-5a-512px.png,,,https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/02/sentinel-5_on_metop_second_generation_satellite/16829208-1-eng-GB/Sentinel-5_on_MetOp_Second_Generation_satellite_pillars.jpg,,
 satellites/sentinel-5a/Sentinel-5a-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-5a/Sentinel-5a.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-5p/Sentinel-5p-1024px.png,,,,,
-satellites/sentinel-5p/Sentinel-5p-512px.png,,,,,
+satellites/sentinel-5p/Sentinel-5p-1024px.png,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeH9eA5NPhbLCUxAfLjebV7Nh79YMD5ieHHw&s,,
+satellites/sentinel-5p/Sentinel-5p-512px.png,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeH9eA5NPhbLCUxAfLjebV7Nh79YMD5ieHHw&s,,
 satellites/sentinel-5p/Sentinel-5p-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-5p/Sentinel-5p.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-6/sentinel-6-1024px.png,,,,,
+satellites/sentinel-6/sentinel-6-1024px.png,,,https://science.nasa.gov/wp-content/uploads/2023/05/s6_SC_04032020_A.png,,
 satellites/sentinel-6/sentinel-6-512px-vectorizer.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/sentinel-6/sentinel-6-512px.png,,,,,
+satellites/sentinel-6/sentinel-6-512px.png,,,https://science.nasa.gov/wp-content/uploads/2023/05/s6_SC_04032020_A.png,,
 satellites/sentinel-6/sentinel-6-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/sentinel-6/sentinel-6.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/SMOS/SMOS-1024px.png,,,,,
-satellites/SMOS/SMOS-512px.png,,,,,
+satellites/SMOS/SMOS-1024px.png,,,https://eo.belspo.be/sites/default/files/styles/xlarge/public/satellites/161._smos.jpg?itok=R8nyZUE0,,
+satellites/SMOS/SMOS-512px.png,,,https://eo.belspo.be/sites/default/files/styles/xlarge/public/satellites/161._smos.jpg?itok=R8nyZUE0,,
 satellites/SMOS/SMOS-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/SMOS/SMOS.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/swarm/swarm-1024px.png,,,,,
-satellites/swarm/swarm-512px.png,,,,,
+satellites/swarm/swarm-1024px.png,,,https://earth.esa.int/eogateway/documents/20142/0/swarm1.jpg/6284e757-344b-0410-7f05-39dbb2d47d8b?t=1608137836438,,
+satellites/swarm/swarm-512px.png,,,https://earth.esa.int/eogateway/documents/20142/0/swarm1.jpg/6284e757-344b-0410-7f05-39dbb2d47d8b?t=1608137836438,,
 satellites/swarm/swarm-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/swarm/swarm.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/SWOT/SWOT-1024px.png,,,,,
-satellites/SWOT/SWOT-512px.png,,,,,
+satellites/SWOT/SWOT-1024px.png,,,https://science.nasa.gov/multimedia/spacecraft-icons/,,
+satellites/SWOT/SWOT-512px.png,,,https://science.nasa.gov/multimedia/spacecraft-icons/,,
 satellites/SWOT/SWOT-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/SWOT/SWOT.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-satellites/TIMED/TIMED-1024px.png,,,,,
-satellites/TIMED/TIMED-512px.png,,,,,
+satellites/TIMED/TIMED-1024px.png,,,https://upload.wikimedia.org/wikipedia/commons/c/c4/TIMED.jpg,,
+satellites/TIMED/TIMED-512px.png,,,https://upload.wikimedia.org/wikipedia/commons/c/c4/TIMED.jpg,,
 satellites/TIMED/TIMED-icon.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
 satellites/TIMED/TIMED.svg,,repo maintainers,https://github.com/gamedaygeorge/satellite-visuals,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
