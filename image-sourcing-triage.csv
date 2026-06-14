@@ -1,0 +1,73 @@
+folder,owner,tier,tier_label,notes
+ace,NASA,A,US-gov public domain,"Advanced Composition Explorer / ACE — NASA, public domain"
+ACRIMSAT,NASA/JPL,A,US-gov public domain,public domain
+alos-2,JAXA,C,Other national agency,"JAXA media terms — usable w/ attribution, some restrictions"
+alos-4,JAXA,C,Other national agency,JAXA
+AMAZONIA-1,INPE (Brazil),C,Other national agency,"INPE imagery, check terms"
+AWS,ESA,B,ESA (CC BY-SA 3.0 IGO),Arctic Weather Satellite — ESA
+cfosat,CNES/CNSA,C,Other national agency,Franco-Chinese; CNES side usually OK
+cloudsat,NASA/JPL,A,US-gov public domain,public domain
+cryosat-2,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+CSG-2,ASI / Italian MoD,D,Commercial / restricted,"COSMO-SkyMed 2nd Gen — defence, restricted"
+CYGNSS,NASA,A,US-gov public domain,public domain
+DSCOVR,NOAA/NASA,A,US-gov public domain,public domain
+dubaisat-1,MBRSC (UAE),C,Other national agency,check MBRSC terms
+DubaiSat-2,MBRSC (UAE),C,Other national agency,check MBRSC terms
+earthcare,ESA/JAXA,B,ESA (CC BY-SA 3.0 IGO),"ESA image available, CC BY-SA"
+earthdaily-constellation,EarthDaily (commercial),D,Commercial / restricted,"copyright, needs permission"
+envisat,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+ePOPonCassiope,CSA (Canada),C,Other national agency,"CSA, attribution"
+FY-1,CMA (China),C,Other national agency,"FengYun — Chinese agency, terms unclear"
+FY-3C,CMA (China),C,Other national agency,FengYun — terms unclear
+GOCE,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+goes-16,NOAA/NASA,A,US-gov public domain,public domain
+goes-19,NOAA/NASA,A,US-gov public domain,public domain
+GOLD,NASA,A,US-gov public domain,public domain (hosted payload)
+GOMX4,GomSpace (commercial),D,Commercial / restricted,"commercial cubesat, needs permission"
+gosat-gw,JAXA,C,Other national agency,JAXA
+HotSat-1,SatVu (commercial),D,Commercial / restricted,"commercial, needs permission"
+ICEsat,NASA,A,US-gov public domain,ICESat/-2 — public domain
+jason-1,NASA/CNES,A,US-gov public domain,NASA public domain available
+jason-2,NASA/NOAA/CNES/EUMETSAT,A,US-gov public domain,NASA public domain available
+jason-3,NASA/NOAA,A,US-gov public domain,public domain
+jpss-1,NOAA/NASA,A,US-gov public domain,NOAA-20 — public domain
+jpss-2,NOAA/NASA,A,US-gov public domain,NOAA-21 — public domain
+kalpana-1,ISRO (India),C,Other national agency,ISRO terms
+khalifasat,MBRSC (UAE),C,Other national agency,check MBRSC terms
+landsat-7,NASA/USGS,A,US-gov public domain,public domain
+landsat-8,NASA/USGS,A,US-gov public domain,public domain
+landsat-9,NASA/USGS,A,US-gov public domain,public domain
+LARES,ASI (Italy),C,Other national agency,passive sphere; ASI
+Light-1,UAE/Khalifa Univ,C,Other national agency,"academic cubesat, obscure"
+meteosat-3,EUMETSAT,C,Other national agency,EUMETSAT — fairly open w/ attribution
+meteosat-9,EUMETSAT,C,Other national agency,EUMETSAT
+meteosat-10,EUMETSAT,C,Other national agency,EUMETSAT
+meteosat-11,EUMETSAT,C,Other national agency,EUMETSAT
+metop-b,EUMETSAT/ESA,C,Other national agency,EUMETSAT/ESA
+meznsat,UAE (academic),C,Other national agency,"academic cubesat, obscure"
+mtg-i1,EUMETSAT/ESA,C,Other national agency,EUMETSAT/ESA
+novasar-1,"SSTL (commercial, UK)",D,Commercial / restricted,SSTL/Airbus — likely needs permission
+NPOESS-2,NOAA/NASA,A,US-gov public domain,cancelled US program — public domain renders
+odin,SNSB (Sweden),C,Other national agency,Swedish agency
+planet-dove,Planet (commercial),D,Commercial / restricted,"copyright, needs permission"
+Pleiades-1B,Airbus/CNES (commercial),D,Commercial / restricted,"Airbus-operated, restricted"
+PRISMA,ASI (Italy),C,Other national agency,ASI hyperspectral
+RapidEye,Planet/BlackBridge (commercial),D,Commercial / restricted,"copyright, needs permission"
+Resurs-01-N2,Roscosmos (Russia),D,Commercial / restricted,Russian — licensing/sanctions hard
+saocom-1a,CONAE (Argentina),C,Other national agency,CONAE
+scisat-1,CSA (Canada),C,Other national agency,"CSA, attribution"
+sentinel-1,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-1C,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-2,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-2c,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-3,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-4,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-5a,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-5p,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+sentinel-6,ESA/NASA,B,ESA (CC BY-SA 3.0 IGO),ESA or NASA — both open
+SMOS,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+SORCE,NASA,A,US-gov public domain,public domain
+swarm,ESA,B,ESA (CC BY-SA 3.0 IGO),CC BY-SA 3.0 IGO
+SWOT,NASA/CNES,A,US-gov public domain,NASA public domain available
+TerraSAR-X,DLR/Airbus,C,Other national agency,DLR renders often CC BY 3.0; Airbus ops
+TIMED,NASA,A,US-gov public domain,public domain
