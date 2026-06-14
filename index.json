@@ -1,0 +1,650 @@
+[
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/ace/ACE.svg",
+    "SVGBlackPath": "satellites/ace/ACE-icon.svg",
+    "PNG1024Path": "satellites/ace/ACE-1024px.png",
+    "PNG512Path": "satellites/ace/ACE-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/05/ACE.png"
+  },
+  {
+    "missionID": "147",
+    "missionName": "ACRIMSAT",
+    "SVGColourPath": "satellites/ACRIMSAT/ACRIMSAT.svg",
+    "SVGBlackPath": "satellites/ACRIMSAT/ACRIMSAT-icon.svg",
+    "PNG1024Path": "satellites/ACRIMSAT/ACRIMSAT-1024px.png",
+    "PNG512Path": "satellites/ACRIMSAT/ACRIMSAT-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "629",
+    "missionName": "ALOS-2",
+    "SVGColourPath": "satellites/alos-2/alos-2.svg",
+    "SVGBlackPath": "satellites/alos-2/alos-2-icon.svg",
+    "PNG1024Path": "satellites/alos-2/alos-2-1024px.png",
+    "PNG512Path": "satellites/alos-2/alos-2-512px.png",
+    "imageSourceURL": "https://www.eoportal.org/api/cms/documents/163813/6584772/Pi7_Image_alos2.jpg/8454aed8-52c2-607e-1671-9bb1cc239a32?t=1660988939103"
+  },
+  {
+    "missionID": "861",
+    "missionName": "ALOS-4",
+    "SVGColourPath": "satellites/alos-4/alos-4.svg",
+    "SVGBlackPath": "satellites/alos-4/alos-4-icon.svg",
+    "PNG1024Path": "satellites/alos-4/alos-4-1024px.png",
+    "PNG512Path": "satellites/alos-4/alos-4-512px.png",
+    "imageSourceURL": "https://www.satnavi.jaxa.jp/files/project/alos4/projectMember/img/paragraph_ph02.jpg"
+  },
+  {
+    "missionID": "602",
+    "missionName": "AMAZONIA-1",
+    "SVGColourPath": "satellites/AMAZONIA-1/AMAZONIA-1.svg",
+    "SVGBlackPath": "satellites/AMAZONIA-1/AMAZONIA-1-icon.svg",
+    "PNG1024Path": "satellites/AMAZONIA-1/AMAZONIA-1-1024px.png",
+    "PNG512Path": "satellites/AMAZONIA-1/AMAZONIA-1-512px.png",
+    "imageSourceURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2TWXhFf0W9upk07UQGqEfy6ONPZXDSQIOBA&s"
+  },
+  {
+    "missionID": "986",
+    "missionName": "AWS",
+    "SVGColourPath": "satellites/AWS/AWS.svg",
+    "SVGBlackPath": "satellites/AWS/AWS-icon.svg",
+    "PNG1024Path": "satellites/AWS/AWS-1024px.png",
+    "PNG512Path": "satellites/AWS/AWS-512px.png",
+    "imageSourceURL": "https://tas-static.thalesaleniaspace.com/cms/public/styles/1920x1200/public/thales_images/arctic_weather_satellite_small_but_perfectly_formed-min.png.webp?VersionId=BcTlw0YTUyyiCgL7VKPpV1acEqv6poOk&itok=GvYR8z18"
+  },
+  {
+    "missionID": "723",
+    "missionName": "CFOSAT",
+    "SVGColourPath": "satellites/cfosat/cfosat.svg",
+    "SVGBlackPath": "satellites/cfosat/cfosat-icon.svg",
+    "PNG1024Path": "satellites/cfosat/cfosat-1024px.png",
+    "PNG512Path": "satellites/cfosat/cfosat-512px.png",
+    "imageSourceURL": "https://www.eoportal.org/api/cms/documents/163813/6584772/bpc_cfosat-illustration.jpg/90ca18e5-d058-9e48-ce79-832a3f8b7c34?t=1668332406679"
+  },
+  {
+    "missionID": "347",
+    "missionName": "CloudSat",
+    "SVGColourPath": "satellites/cloudsat/CloudSat.svg",
+    "SVGBlackPath": "satellites/cloudsat/CloudSat-icon.svg",
+    "PNG1024Path": "satellites/cloudsat/CloudSat-1024px.png",
+    "PNG512Path": "satellites/cloudsat/CloudSat-512px.png",
+    "imageSourceURL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/CloudSat_spacecraft_model.png"
+  },
+  {
+    "missionID": "529",
+    "missionName": "CryoSat-2",
+    "SVGColourPath": "satellites/cryosat-2/cryosat-2.svg",
+    "SVGBlackPath": "satellites/cryosat-2/cryosat-2-icon.svg",
+    "PNG1024Path": "satellites/cryosat-2/cryosat-2-1024px.png",
+    "PNG512Path": "satellites/cryosat-2/cryosat-2-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2009/09/cryosat3/10084092-2-eng-GB/CryoSat_pillars.jpg"
+  },
+  {
+    "missionID": "635",
+    "missionName": "CSG-2",
+    "SVGColourPath": "satellites/CSG-2/CSG-2.svg",
+    "SVGBlackPath": "satellites/CSG-2/CSG-2-icon.svg",
+    "PNG1024Path": "satellites/CSG-2/CSG-2-1024px.png",
+    "PNG512Path": "satellites/CSG-2/CSG-2-512px.png",
+    "imageSourceURL": "https://www.nasaspaceflight.com/wp-content/uploads/2022/01/csg-render.jpg"
+  },
+  {
+    "missionID": "740",
+    "missionName": "CYGNSS",
+    "SVGColourPath": "satellites/CYGNSS/CYGNSS.svg",
+    "SVGBlackPath": "satellites/CYGNSS/CYGNSS-icon.svg",
+    "PNG1024Path": "satellites/CYGNSS/CYGNSS-1024px.png",
+    "PNG512Path": "satellites/CYGNSS/CYGNSS-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "350",
+    "missionName": "DSCOVR",
+    "SVGColourPath": "satellites/DSCOVR/DSCOVR.svg",
+    "SVGBlackPath": "satellites/DSCOVR/DSCOVR-icon.svg",
+    "PNG1024Path": "satellites/DSCOVR/DSCOVR-1024px.png",
+    "PNG512Path": "satellites/DSCOVR/DSCOVR-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "912",
+    "missionName": "DubaiSat-1",
+    "SVGColourPath": "satellites/dubaisat-1/DubaiSat-1.svg",
+    "SVGBlackPath": "satellites/dubaisat-1/DubaiSat-1-icon.svg",
+    "PNG1024Path": "satellites/dubaisat-1/DubaiSat-1-1024px.png",
+    "PNG512Path": "satellites/dubaisat-1/DubaiSat-1-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "913",
+    "missionName": "DubaiSat-2",
+    "SVGColourPath": "satellites/DubaiSat-2/DubaiSat-2.svg",
+    "SVGBlackPath": "satellites/DubaiSat-2/DubaiSat-2-icon.svg",
+    "PNG1024Path": "satellites/DubaiSat-2/DubaiSat-2-1024px.png",
+    "PNG512Path": "satellites/DubaiSat-2/DubaiSat-2-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/earthcare/earthcare.svg",
+    "SVGBlackPath": "satellites/earthcare/earthcare-icon.svg",
+    "PNG1024Path": "satellites/earthcare/earthcare-1024px.png",
+    "PNG512Path": "satellites/earthcare/earthcare-512px.png",
+    "imageSourceURL": "https://earth.esa.int/eogateway/documents/20142/1899021/EarthCARE-mission-1920x1080.jpg/1abe23cb-51db-c2c8-19d8-31c660ce0044?t=1615817618416"
+  },
+  {
+    "missionID": "1514",
+    "missionName": "EarthDaily",
+    "SVGColourPath": "satellites/earthdaily-constellation/earthdaily-constellation.svg",
+    "SVGBlackPath": "satellites/earthdaily-constellation/earthdaily-constellation-icon.svg",
+    "PNG1024Path": "satellites/earthdaily-constellation/earthdaily-constellation-1024px.png",
+    "PNG512Path": "satellites/earthdaily-constellation/earthdaily-constellation-512px.png",
+    "imageSourceURL": "https://www.eoportal.org/api/cms/documents/d/eoportal/earthdaily"
+  },
+  {
+    "missionID": "2",
+    "missionName": "Envisat",
+    "SVGColourPath": "satellites/envisat/envisat.svg",
+    "SVGBlackPath": "satellites/envisat/envisat-icon.svg",
+    "PNG1024Path": "satellites/envisat/envisat-1024px.png",
+    "PNG512Path": "satellites/envisat/envisat-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2004/07/artist_s_impression_of_envisat/9613382-3-eng-GB/Artist_s_impression_of_Envisat_article.jpg"
+  },
+  {
+    "missionID": "730",
+    "missionName": "ePOP on CASSIOPE",
+    "SVGColourPath": "satellites/ePOPonCassiope/ePOPonCassiope.svg",
+    "SVGBlackPath": "satellites/ePOPonCassiope/ePOPonCassiope-icon.svg",
+    "PNG1024Path": "satellites/ePOPonCassiope/ePOPonCassiope-1024px.png",
+    "PNG512Path": "satellites/ePOPonCassiope/ePOPonCassiope-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2018/02/cassiope_carries_e-pop/17387505-1-eng-GB/Cassiope_carries_e-POP.jpg"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/FY-1/FY-1.svg",
+    "SVGBlackPath": "satellites/FY-1/FY-1-icon.svg",
+    "PNG1024Path": "satellites/FY-1/FY-1-1024px.png",
+    "PNG512Path": "satellites/FY-1/FY-1-512px.png",
+    "imageSourceURL": "https://img.nsmc.org.cn/PORTAL/NSMC/PIC/GALLERY/FY1A/FY-1.jpg"
+  },
+  {
+    "missionID": "368",
+    "missionName": "FY-3C",
+    "SVGColourPath": "satellites/FY-3C/FY-3C.svg",
+    "SVGBlackPath": "satellites/FY-3C/FY-3C-icon.svg",
+    "PNG1024Path": "satellites/FY-3C/FY-3C-1024px.png",
+    "PNG512Path": "satellites/FY-3C/FY-3C-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "376",
+    "missionName": "GOCE",
+    "SVGColourPath": "satellites/GOCE/GOCE.svg",
+    "SVGBlackPath": "satellites/GOCE/GOCE-icon.svg",
+    "PNG1024Path": "satellites/GOCE/GOCE-1024px.png",
+    "PNG512Path": "satellites/GOCE/GOCE-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "470",
+    "missionName": "GOES-16",
+    "SVGColourPath": "satellites/goes-16/goes-16.svg",
+    "SVGBlackPath": "satellites/goes-16/goes-16-icon.svg",
+    "PNG1024Path": "satellites/goes-16/goes-16-1024px.png",
+    "PNG512Path": "satellites/goes-16/goes-16-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/GOES_R_3-sm.png?w=300"
+  },
+  {
+    "missionID": "724",
+    "missionName": "GOES-19",
+    "SVGColourPath": "satellites/goes-19/goes-19.svg",
+    "SVGBlackPath": "satellites/goes-19/GOES-19-icon.svg",
+    "PNG1024Path": "satellites/goes-19/goes-19-1024px.png",
+    "PNG512Path": "satellites/goes-19/goes-19-512px.png",
+    "imageSourceURL": "https://en.wikipedia.org/wiki/GOES-19#/media/File:GOES-U_night_(53390148447).png"
+  },
+  {
+    "missionID": "1086",
+    "missionName": "GOLD",
+    "SVGColourPath": "satellites/GOLD/GOLD.svg",
+    "SVGBlackPath": "satellites/GOLD/GOLD-icon.svg",
+    "PNG1024Path": "satellites/GOLD/GOLD-1024px.png",
+    "PNG512Path": "satellites/GOLD/GOLD-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "917",
+    "missionName": "GOMX4",
+    "SVGColourPath": "satellites/GOMX4/GOMX4.svg",
+    "SVGBlackPath": "satellites/GOMX4/GOMX4-icon.svg",
+    "PNG1024Path": "satellites/GOMX4/GOMX4-1024px.png",
+    "PNG512Path": "satellites/GOMX4/GOMX4-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "862",
+    "missionName": "GOSAT-GW",
+    "SVGColourPath": "satellites/gosat-gw/gosat-gw.svg",
+    "SVGBlackPath": "satellites/gosat-gw/gosat-gw-icon.svg",
+    "PNG1024Path": "satellites/gosat-gw/gosat-gw-1024px.png",
+    "PNG512Path": "satellites/gosat-gw/gosat-gw-512px.png",
+    "imageSourceURL": "https://admin.eoportal.org/documents/163813/6853891/image1.png/3fdf8326-6693-f8d0-e472-3e5c47111290?t=1685080953755"
+  },
+  {
+    "missionID": "1479",
+    "missionName": "HotSat-1",
+    "SVGColourPath": "satellites/HotSat-1/HotSat-1.svg",
+    "SVGBlackPath": "satellites/HotSat-1/HotSat-1-icon.svg",
+    "PNG1024Path": "satellites/HotSat-1/HotSat-1-1024px.png",
+    "PNG512Path": "satellites/HotSat-1/HotSat-1-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "212",
+    "missionName": "ICESat",
+    "SVGColourPath": "satellites/ICEsat/ICEsat.svg",
+    "SVGBlackPath": "satellites/ICEsat/ICEsat-icon.svg",
+    "PNG1024Path": "satellites/ICEsat/ICEsat-1024px.png",
+    "PNG512Path": "satellites/ICEsat/ICEsat-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "286",
+    "missionName": "Jason-1",
+    "SVGColourPath": "satellites/jason-1/Jason-1.svg",
+    "SVGBlackPath": "satellites/jason-1/Jason-1-icon.svg",
+    "PNG1024Path": "satellites/jason-1/Jason-1-1024px.png",
+    "PNG512Path": "satellites/jason-1/Jason-1-512px.png",
+    "imageSourceURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jason-1.jpg"
+  },
+  {
+    "missionID": "419",
+    "missionName": "OSTM (Jason-2)",
+    "SVGColourPath": "satellites/jason-2/OSTM-Jason-2.svg",
+    "SVGBlackPath": "satellites/jason-2/OSTM-Jason-2-icon.svg",
+    "PNG1024Path": "satellites/jason-2/OSTM-Jason-2-1024px.png",
+    "PNG512Path": "satellites/jason-2/OSTM-Jason-2-512px.png",
+    "imageSourceURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/OSTM_Jason_2_spacecraft_model.png/1200px-OSTM_Jason_2_spacecraft_model.png"
+  },
+  {
+    "missionID": "592",
+    "missionName": "Jason-3",
+    "SVGColourPath": "satellites/jason-3/jason-3.svg",
+    "SVGBlackPath": "satellites/jason-3/jason-3-icon.svg",
+    "PNG1024Path": "satellites/jason-3/jason-3-1024px.png",
+    "PNG512Path": "satellites/jason-3/jason-3-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/Jason3-sm.png?w=300"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/jpss-1/JPSS-1.svg",
+    "SVGBlackPath": "satellites/jpss-1/JPSS-1-icon.svg",
+    "PNG1024Path": "satellites/jpss-1/JPSS-1-1024px.png",
+    "PNG512Path": "satellites/jpss-1/JPSS-1-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/JPSS-sm.png?w=300"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/jpss-2/JPSS-2.svg",
+    "SVGBlackPath": "satellites/jpss-2/JPSS-2-icon.svg",
+    "PNG1024Path": "satellites/jpss-2/JPSS-2-1024px.png",
+    "PNG512Path": "satellites/jpss-2/JPSS-2-512px.png",
+    "imageSourceURL": "https://eospso.nasa.gov/sites/default/files/sat/jp5.jpg"
+  },
+  {
+    "missionID": "436",
+    "missionName": "KALPANA-1",
+    "SVGColourPath": "satellites/kalpana-1/Kalpana-1.svg",
+    "SVGBlackPath": "satellites/kalpana-1/Kalpana-1-icon.svg",
+    "PNG1024Path": "satellites/kalpana-1/Kalpana-1-1024px.png",
+    "PNG512Path": "satellites/kalpana-1/Kalpana-1-512px.png",
+    "imageSourceURL": "https://space.skyrocket.de/php/resize-img.php?pth=0&img=metsat-1__1.jpg"
+  },
+  {
+    "missionID": "914",
+    "missionName": "KhalifaSat",
+    "SVGColourPath": "satellites/khalifasat/KhalifaSat.svg",
+    "SVGBlackPath": "satellites/khalifasat/KhalifaSat-icon.svg",
+    "PNG1024Path": "satellites/khalifasat/KhalifaSat-1024px.png",
+    "PNG512Path": "satellites/khalifasat/KhalifaSat-512px.png",
+    "imageSourceURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/KhalifaSat_UAE_Satellite.jpg/960px-KhalifaSat_UAE_Satellite.jpg"
+  },
+  {
+    "missionID": "349",
+    "missionName": "Landsat 7",
+    "SVGColourPath": "satellites/landsat-7/Landsat-7.svg",
+    "SVGBlackPath": "satellites/landsat-7/Landsat-7-icon.svg",
+    "PNG1024Path": "satellites/landsat-7/Landsat-7-1024px.png",
+    "PNG512Path": "satellites/landsat-7/Landsat-7-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/Landsat_7_b-sm.png?w=300"
+  },
+  {
+    "missionID": "547",
+    "missionName": "Landsat 8",
+    "SVGColourPath": "satellites/landsat-8/Landsat-8.svg",
+    "SVGBlackPath": "satellites/landsat-8/Landsat-8-icon.svg",
+    "PNG1024Path": "satellites/landsat-8/Landsat-8-1024px.png",
+    "PNG512Path": "satellites/landsat-8/Landsat-8-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/10/Landsat8_LDCM-sm.png?w=300"
+  },
+  {
+    "missionID": "772",
+    "missionName": "Landsat 9",
+    "SVGColourPath": "satellites/landsat-9/landsat9.svg",
+    "SVGBlackPath": "satellites/landsat-9/landsat9-icon.svg",
+    "PNG1024Path": "satellites/landsat-9/landsat9-1024px.png",
+    "PNG512Path": "satellites/landsat-9/landsat9-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/05/landsat9.png"
+  },
+  {
+    "missionID": "19",
+    "missionName": "LARES",
+    "SVGColourPath": "satellites/LARES/LARES.svg",
+    "SVGBlackPath": "satellites/LARES/LARES-icon.svg",
+    "PNG1024Path": "satellites/LARES/LARES-1024px.png",
+    "PNG512Path": "satellites/LARES/LARES-512px.png",
+    "imageSourceURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/LARESball_public.JPG"
+  },
+  {
+    "missionID": "916",
+    "missionName": "Light-1",
+    "SVGColourPath": "satellites/Light-1/Light-1.svg",
+    "SVGBlackPath": "satellites/Light-1/Light-1-icon.svg",
+    "PNG1024Path": "satellites/Light-1/Light-1-1024px.png",
+    "PNG512Path": "satellites/Light-1/Light-1-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "260",
+    "missionName": "Meteosat-10",
+    "SVGColourPath": "satellites/meteosat-10/Meteosat-10.svg",
+    "SVGBlackPath": "satellites/meteosat-10/Meteosat-10-icon.svg",
+    "PNG1024Path": "satellites/meteosat-10/Meteosat-10-1024px.png",
+    "PNG512Path": "satellites/meteosat-10/Meteosat-10-512px.png",
+    "imageSourceURL": "https://www.un-spider.org/sites/default/files/121219_Meteosat.jpg"
+  },
+  {
+    "missionID": "451",
+    "missionName": "Meteosat-11",
+    "SVGColourPath": "satellites/meteosat-11/meteosat-11.svg",
+    "SVGBlackPath": "satellites/meteosat-11/meteosat-11-icon.svg",
+    "PNG1024Path": "satellites/meteosat-11/meteosat-11-1024px.png",
+    "PNG512Path": "satellites/meteosat-11/meteosat-11-512px.png",
+    "imageSourceURL": "https://tse1.mm.bing.net/th/id/OIP.QD0t5mg9RGwszGT_EkypJAHaKX?w=474&h=474&c=7"
+  },
+  {
+    "missionID": "32",
+    "missionName": "Meteosat-3",
+    "SVGColourPath": "satellites/meteosat-3/Meteosat-3.svg",
+    "SVGBlackPath": "satellites/meteosat-3/Meteosat-3-icon.svg",
+    "PNG1024Path": "satellites/meteosat-3/Meteosat-3-1024px.png",
+    "PNG512Path": "satellites/meteosat-3/Meteosat-3-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "259",
+    "missionName": "Meteosat-9",
+    "SVGColourPath": "satellites/meteosat-9/meteosat-9.svg",
+    "SVGBlackPath": "satellites/meteosat-9/meteosat-9-icon.svg",
+    "PNG1024Path": "satellites/meteosat-9/meteosat-9-1024px.png",
+    "PNG512Path": "satellites/meteosat-9/meteosat-9-512px.png",
+    "imageSourceURL": "https://www-cdn.eumetsat.int/files/2023-09/Satellites_MSG.jpg"
+  },
+  {
+    "missionID": "230",
+    "missionName": "Metop-B",
+    "SVGColourPath": "satellites/metop-b/metop-b.svg",
+    "SVGBlackPath": "satellites/metop-b/metop-b-icon.svg",
+    "PNG1024Path": "satellites/metop-b/metop-b-1024px.png",
+    "PNG512Path": "satellites/metop-b/metop-b-512px.png",
+    "imageSourceURL": "https://tse2.mm.bing.net/th/id/OIP.QvT-GG1XR6HQ6AiaMYzvOAAAAA?pid=Api"
+  },
+  {
+    "missionID": "915",
+    "missionName": "MeznSat",
+    "SVGColourPath": "satellites/meznsat/Meznsat.svg",
+    "SVGBlackPath": "satellites/meznsat/Meznsat-icon.svg",
+    "PNG1024Path": "satellites/meznsat/Meznsat-1024px.png",
+    "PNG512Path": "satellites/meznsat/Meznsat-512px.png",
+    "imageSourceURL": "https://space.skyrocket.de/img_sat/meznsat__1.jpg"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/mtg-i1/MTG-i1.svg",
+    "SVGBlackPath": "satellites/mtg-i1/MTG-i1-icon.svg",
+    "PNG1024Path": "satellites/mtg-i1/MTG-i1-1024px.png",
+    "PNG512Path": "satellites/mtg-i1/MTG-i1-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2012/02/mtg-i2/9992525-4-eng-GB/MTG-I_pillars.jpg"
+  },
+  {
+    "missionID": "856",
+    "missionName": "NovaSAR-1",
+    "SVGColourPath": "satellites/novasar-1/NovaSAR-1.svg",
+    "SVGBlackPath": "satellites/novasar-1/NovaSAR-1-icon.svg",
+    "PNG1024Path": "satellites/novasar-1/NovaSAR-1-1024px.png",
+    "PNG512Path": "satellites/novasar-1/NovaSAR-1-512px.png",
+    "imageSourceURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSQ308qNsjsqJW4v5ljcigmZXn70Ruoc95Gg&s"
+  },
+  {
+    "missionID": "264",
+    "missionName": "NPOESS-2",
+    "SVGColourPath": "satellites/NPOESS-2/NPOESS-2.svg",
+    "SVGBlackPath": "satellites/NPOESS-2/NPOESS-2-icon.svg",
+    "PNG1024Path": "satellites/NPOESS-2/NPOESS-2-1024px.png",
+    "PNG512Path": "satellites/NPOESS-2/NPOESS-2-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "388",
+    "missionName": "Odin",
+    "SVGColourPath": "satellites/odin/Odin.svg",
+    "SVGBlackPath": "satellites/odin/Odin-icon.svg",
+    "PNG1024Path": "satellites/odin/Odin-1024px.png",
+    "PNG512Path": "satellites/odin/Odin-512px.png",
+    "imageSourceURL": "https://www.eoportal.org/api/cms/documents/d/eoportal/odin_auto15-jpeg"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/planet-dove/planet-dove.svg",
+    "SVGBlackPath": "satellites/planet-dove/planet-dove-icon.svg",
+    "PNG1024Path": "satellites/planet-dove/planet-dove-1024px.png",
+    "PNG512Path": "satellites/planet-dove/planet-dove-512px.png",
+    "imageSourceURL": "https://cdn.sanity.io/images/hvd5n54p/blog/247354a3c193499da3277ead3988e477dff68634-1024x540.jpg?w=2048&q=75&fit=clip&auto=format"
+  },
+  {
+    "missionID": "479",
+    "missionName": "Pleiades 1B",
+    "SVGColourPath": "satellites/Pleiades-1B/Pleiades-1B.svg",
+    "SVGBlackPath": "satellites/Pleiades-1B/Pleiades-1B-icon.svg",
+    "PNG1024Path": "satellites/Pleiades-1B/Pleiades-1B-1024px.png",
+    "PNG512Path": "satellites/Pleiades-1B/Pleiades-1B-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "396",
+    "missionName": "PRISMA",
+    "SVGColourPath": "satellites/PRISMA/PRISMA.svg",
+    "SVGBlackPath": "satellites/PRISMA/PRISMA-icon.svg",
+    "PNG1024Path": "satellites/PRISMA/PRISMA-1024px.png",
+    "PNG512Path": "satellites/PRISMA/PRISMA-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "469",
+    "missionName": "RapidEye",
+    "SVGColourPath": "satellites/RapidEye/RapidEye.svg",
+    "SVGBlackPath": "satellites/RapidEye/RapidEye-icon.svg",
+    "PNG1024Path": "satellites/RapidEye/RapidEye-1024px.png",
+    "PNG512Path": "satellites/RapidEye/RapidEye-512px.png",
+    "imageSourceURL": "https://space.skyrocket.de/img_sat/rapideye-1__1.jpg"
+  },
+  {
+    "missionID": "135",
+    "missionName": "Resurs-01 N2",
+    "SVGColourPath": "satellites/Resurs-01-N2/Resurs-01-N2.svg",
+    "SVGBlackPath": "satellites/Resurs-01-N2/Resurs-01-N2-icon.svg",
+    "PNG1024Path": "satellites/Resurs-01-N2/Resurs-01-N2-1024px.png",
+    "PNG512Path": "satellites/Resurs-01-N2/Resurs-01-N2-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "405",
+    "missionName": "SAOCOM 1A",
+    "SVGColourPath": "satellites/saocom-1a/Saocom-1a.svg",
+    "SVGBlackPath": "satellites/saocom-1a/Saocom-1a-icon.svg",
+    "PNG1024Path": "satellites/saocom-1a/Saocom-1a-1024px.png",
+    "PNG512Path": "satellites/saocom-1a/Saocom-1a-512px.png",
+    "imageSourceURL": "https://docs.mcube.terradue.com/missions/sar/media/saocom-1-sat.png"
+  },
+  {
+    "missionID": "394",
+    "missionName": "SCISAT-1",
+    "SVGColourPath": "satellites/scisat-1/scisat-1.svg",
+    "SVGBlackPath": "satellites/scisat-1/scisat-1-icon.svg",
+    "PNG1024Path": "satellites/scisat-1/scisat-1-1024px.png",
+    "PNG512Path": "satellites/scisat-1/scisat-1-512px.png",
+    "imageSourceURL": "https://eo.belspo.be/sites/default/files/styles/xlarge/public/satellites/100._scisat_2.jpg?itok=A7X2dAkp"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/sentinel-1/Sentinal-1.svg",
+    "SVGBlackPath": "satellites/sentinel-1/Sentinal-1-icon.svg",
+    "PNG1024Path": "satellites/sentinel-1/ Sentinal-1-1024px.png",
+    "PNG512Path": "satellites/sentinel-1/ Sentinal-1-512px.png",
+    "imageSourceURL": "https://sentiwiki.copernicus.eu/__attachments/1680406/Sentinel-1.jpg?inst-v=869f0208-33ab-4833-803c-33b10e8dbfd3"
+  },
+  {
+    "missionID": "577",
+    "missionName": "Sentinel-1 C",
+    "SVGColourPath": "satellites/sentinel-1C/Sentinel-1c.svg",
+    "SVGBlackPath": "satellites/sentinel-1C/Sentinel-1c-icon.svg",
+    "PNG1024Path": "satellites/sentinel-1C/Sentinel-1c-1024px.png",
+    "PNG512Path": "satellites/sentinel-1C/Sentinel-1c-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2014/01/sentinel-1_radar_vision/13494392-1-eng-GB/Sentinel-1_radar_vision_pillars.jpg"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/sentinel-2/Sentinel-2.svg",
+    "SVGBlackPath": "satellites/sentinel-2/Sentinel-2-icon.svg",
+    "PNG1024Path": "satellites/sentinel-2/Sentinel-2-1024px.png",
+    "PNG512Path": "satellites/sentinel-2/Sentinel-2-512px.png",
+    "imageSourceURL": "https://sentiwiki.copernicus.eu/__attachments/1671710/image-20230517-132224.png?inst-v=96021aea-734a-44d2-9ca8-2228c7de7290"
+  },
+  {
+    "missionID": "578",
+    "missionName": "Sentinel-2 C",
+    "SVGColourPath": "satellites/sentinel-2c/Sentinel-2c.svg",
+    "SVGBlackPath": "satellites/sentinel-2c/Sentinel-2c-icon.svg",
+    "PNG1024Path": "satellites/sentinel-2c/Sentinel-2c-1024px.png",
+    "PNG512Path": "satellites/sentinel-2c/Sentinel-2c-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/03/sentinel-2/15292661-1-eng-GB/Sentinel-2_article.jpg"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/sentinel-3/Sentinel-3.svg",
+    "SVGBlackPath": "satellites/sentinel-3/Sentinel-3-icon.svg",
+    "PNG1024Path": "satellites/sentinel-3/Sentinel-3-1024px.png",
+    "PNG512Path": "satellites/sentinel-3/Sentinel-3-512px.png",
+    "imageSourceURL": "https://www-cdn.eumetsat.int/files/styles/16_9_large/s3/2020-11/ASpot_Sentinel-3.jpg?h=d5a0cc9b&itok=Fjf7yuho"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/sentinel-4/Sentinel-4.svg",
+    "SVGBlackPath": "satellites/sentinel-4/Sentinel-4-icon.svg",
+    "PNG1024Path": "satellites/sentinel-4/Sentinel-4-1024px.png",
+    "PNG512Path": "satellites/sentinel-4/Sentinel-4-512px.png",
+    "imageSourceURL": "https://www.eoportal.org/satellite-missions/copernicus-sentinel-4#eop-quick-facts-section"
+  },
+  {
+    "missionID": "641",
+    "missionName": "Sentinel-5 A",
+    "SVGColourPath": "satellites/sentinel-5a/Sentinel-5a.svg",
+    "SVGBlackPath": "satellites/sentinel-5a/Sentinel-5a-icon.svg",
+    "PNG1024Path": "satellites/sentinel-5a/Sentinel-5a-1024px.png",
+    "PNG512Path": "satellites/sentinel-5a/Sentinel-5a-512px.png",
+    "imageSourceURL": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/02/sentinel-5_on_metop_second_generation_satellite/16829208-1-eng-GB/Sentinel-5_on_MetOp_Second_Generation_satellite_pillars.jpg"
+  },
+  {
+    "missionID": "581",
+    "missionName": "Sentinel-5 precursor",
+    "SVGColourPath": "satellites/sentinel-5p/Sentinel-5p.svg",
+    "SVGBlackPath": "satellites/sentinel-5p/Sentinel-5p-icon.svg",
+    "PNG1024Path": "satellites/sentinel-5p/Sentinel-5p-1024px.png",
+    "PNG512Path": "satellites/sentinel-5p/Sentinel-5p-512px.png",
+    "imageSourceURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeH9eA5NPhbLCUxAfLjebV7Nh79YMD5ieHHw&s"
+  },
+  {
+    "missionID": "",
+    "missionName": "",
+    "SVGColourPath": "satellites/sentinel-6/sentinel-6-512px-vectorizer.svg",
+    "SVGBlackPath": "satellites/sentinel-6/sentinel-6-icon.svg",
+    "PNG1024Path": "satellites/sentinel-6/sentinel-6-1024px.png",
+    "PNG512Path": "satellites/sentinel-6/sentinel-6-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/wp-content/uploads/2023/05/s6_SC_04032020_A.png"
+  },
+  {
+    "missionID": "379",
+    "missionName": "SMOS",
+    "SVGColourPath": "satellites/SMOS/SMOS.svg",
+    "SVGBlackPath": "satellites/SMOS/SMOS-icon.svg",
+    "PNG1024Path": "satellites/SMOS/SMOS-1024px.png",
+    "PNG512Path": "satellites/SMOS/SMOS-512px.png",
+    "imageSourceURL": "https://eo.belspo.be/sites/default/files/styles/xlarge/public/satellites/161._smos.jpg?itok=R8nyZUE0"
+  },
+  {
+    "missionID": "346",
+    "missionName": "SORCE",
+    "SVGColourPath": "satellites/SORCE/SORCE.svg",
+    "SVGBlackPath": "satellites/SORCE/SORCE-icon.svg",
+    "PNG1024Path": "satellites/SORCE/SORCE-1024px.png",
+    "PNG512Path": "satellites/SORCE/SORCE-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "468",
+    "missionName": "Swarm",
+    "SVGColourPath": "satellites/swarm/swarm.svg",
+    "SVGBlackPath": "satellites/swarm/swarm-icon.svg",
+    "PNG1024Path": "satellites/swarm/swarm-1024px.png",
+    "PNG512Path": "satellites/swarm/swarm-512px.png",
+    "imageSourceURL": "https://earth.esa.int/eogateway/documents/20142/0/swarm1.jpg/6284e757-344b-0410-7f05-39dbb2d47d8b?t=1608137836438"
+  },
+  {
+    "missionID": "646",
+    "missionName": "SWOT",
+    "SVGColourPath": "satellites/SWOT/SWOT.svg",
+    "SVGBlackPath": "satellites/SWOT/SWOT-icon.svg",
+    "PNG1024Path": "satellites/SWOT/SWOT-1024px.png",
+    "PNG512Path": "satellites/SWOT/SWOT-512px.png",
+    "imageSourceURL": "https://science.nasa.gov/multimedia/spacecraft-icons/"
+  },
+  {
+    "missionID": "391",
+    "missionName": "TerraSAR-X",
+    "SVGColourPath": "satellites/TerraSAR-X/TerraSAR-X.svg",
+    "SVGBlackPath": "satellites/TerraSAR-X/TerraSAR-X-icon.svg",
+    "PNG1024Path": "satellites/TerraSAR-X/TerraSAR-X-1024px.png",
+    "PNG512Path": "satellites/TerraSAR-X/TerraSAR-X-512px.png",
+    "imageSourceURL": ""
+  },
+  {
+    "missionID": "462",
+    "missionName": "TIMED",
+    "SVGColourPath": "satellites/TIMED/TIMED.svg",
+    "SVGBlackPath": "satellites/TIMED/TIMED-icon.svg",
+    "PNG1024Path": "satellites/TIMED/TIMED-1024px.png",
+    "PNG512Path": "satellites/TIMED/TIMED-512px.png",
+    "imageSourceURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/TIMED.jpg"
+  }
+]
